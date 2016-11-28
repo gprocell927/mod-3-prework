@@ -1,0 +1,23 @@
+{
+  "name": "promise-shop",
+  "version": "1.0.0",
+  "description": "promise shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.10.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-jsx-a11y": "^3.0.1",
+    "eslint-plugin-react": "^6.7.1"
+  },
+  "dependencies": {
+    "eslint-plugin-import": "^2.2.0",
+    "q-io": "^1.13.2"
+  },
+  "extends": "airbnb"
+}
